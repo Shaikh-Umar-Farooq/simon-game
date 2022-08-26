@@ -82,3 +82,8 @@ footer {
 .fa-award {
   margin-top: 30px;
 }
+@media (max-width: 1000px) {
+  .how-to {
+    font-size: 2rem;
+  }
+}
